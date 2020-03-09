@@ -8,10 +8,7 @@ author: Nolan Phillips
 * **Markdown/HTML Fields**
   * Added **Undo** and **Redo** buttons to the Menu
   * Added the ability to set the top-offset of the Menu by passing a string as the `sticky` prop when using inline edting:
-
-    ```jsx
-    <Wysiwyg sticky="16px" />
-    ```
+* 
 
 ## Bug Fixes
 
